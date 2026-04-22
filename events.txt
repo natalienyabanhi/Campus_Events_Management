@@ -1,0 +1,4 @@
+1|Tech Talk|20/04/2026|10:00|Hall A|3
+2|Java Workshop|25/04/2026|14:00|Lab 3B|2
+3|Programming Seminar|28/04/2026|09:00|Room 101|3
+4|Database Bootcamp|30/04/2026|11:00|Lab 2A|2
