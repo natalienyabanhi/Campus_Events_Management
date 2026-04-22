@@ -181,3 +181,5 @@ All errors are handled gracefully with clear messages:
 - The program is fully console-based with no GUI
 - Code is clearly structured, commented, and modular
 - Data files are auto-generated in the project root on first run
+
+- Author: Natalie Nyabanhi
